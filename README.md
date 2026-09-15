@@ -127,4 +127,4 @@ markdown_path = parse_xml("input/paper.xml")
 print(markdown_path)  # input/paper.xml.md
 ```
 
-`parse_xml()` preserves the document text and tables and saves Markdown beside the source XML. It does not run data extraction. Pass the saved `.xml.md` file to `extract_file()` when ready.
+`parse_xml()` preserves the document text and tables and saves Markdown beside the source XML. It does not run data extraction. Pass the saved `.xml,.md` file to `extract_file()` when ready.
