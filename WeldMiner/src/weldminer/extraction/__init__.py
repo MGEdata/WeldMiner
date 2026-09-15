@@ -1,1 +1,0 @@
-"""WeldMiner extraction components."""

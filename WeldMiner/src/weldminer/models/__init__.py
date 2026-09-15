@@ -1,1 +1,0 @@
-"""WeldMiner models components."""
