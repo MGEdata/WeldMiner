@@ -118,7 +118,7 @@ The parser performs local layout detection and calls the configured VLM service.
 
 ### Parse XML files
 
-XML parsing requires no OCR environment or model service. Pass XML directly to `extract_file()` for extraction, or convert it separately to Markdown:
+
 
 ```python
 from weldminer import parse_xml
