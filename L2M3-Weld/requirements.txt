@@ -1,0 +1,14 @@
+langchain-core>=1,<2
+langchain-classic>=1,<2
+langchain-openai>=1,<2
+openai>=2,<3
+python-dotenv>=1
+pydantic>=2,<3
+omegaconf
+ase
+tiktoken
+beautifulsoup4
+lxml
+regex
+requests
+jinja2
